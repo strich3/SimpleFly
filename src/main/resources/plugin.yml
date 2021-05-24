@@ -1,0 +1,12 @@
+name: System
+version: ${project.version}
+main: potato.strich.system.main
+api-version: 1.16
+authors: [ strich3 ]
+description: Super cooles plugin! xD
+website: potato.mc-play.net
+commands:
+  fly:
+    description: Keine
+    usage: /<command>
+    permission: system.fly
